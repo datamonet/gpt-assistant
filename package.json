@@ -17,7 +17,7 @@
 		"clsx": "^2.0.0",
 		"framer-motion": "^10.16.12",
 		"lucide-react": "^0.294.0",
-		"next": "^14.0.3",
+		"next": "13.5.5-canary.17",
 		"openai": "^4.20.1",
 		"react": "^18",
 		"react-dom": "^18",
